@@ -53,7 +53,7 @@ function Experience() {
                         Experience
                     </p>
                     <p className='py-6 '>
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eos, architecto!
+                        These are some of the frameworks and languages on which I worked upon.
                     </p>
 
                 </div>
